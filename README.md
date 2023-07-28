@@ -1,5 +1,8 @@
 AgriGrow 🌿
+
 A simple and easy to use Machine Learning and Deep Learning based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
+
+
 MOTIVATION 💪
 Farming is one of the major sectors that influences a country’s economic growth.
 
@@ -17,19 +20,27 @@ For the fertilizer recommendation application, the user can input the soil data 
 For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
 DATASETS USED 📊
+
+
 Crop recommendation dataset (custom built dataset)
 Fertilizer suggestion dataset (custom built dataset)
 Disease detection dataset
+
+
 Built with 🛠️
        
 
     
 
 DEPLOYMENT 🚀
+
+
 This website is deployed at Heroku You can access it here
 Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
 HOW TO USE 💻
+
+
 Enter you email address and password and get yourself registered with the Application. You will receive a mail highlighting the login credentails.
 
 Crop Recommendation system ==> enter the corresponding nutrient values of your soil, state and city. Note that, the N-P-K (Nitrogen-Phosphorous-Pottasium) values to be entered should be the ratio between them. Refer this website for more information. Note: When you enter the city name, make sure to enter mostly common city names. Remote cities/towns may not be available in the Weather API from where humidity, temperature data is fetched.
@@ -53,6 +64,8 @@ Strawberry
 Tomato
 Squash
 Raspberry
+
+
 HOW TO RUN LOCALLY 🛠️
 Before the following steps make sure you have git, Anaconda or miniconda installed on your system
 
@@ -67,6 +80,7 @@ python app.py
 Open the localhost url provided after running app.py and now you can use the project locally in your web browser.
 
 DEMO
+
 Crop recommendation system
 Crop Recommendation
 
@@ -74,6 +88,7 @@ Fertilizer suggestion system
 Fertiliser Recommendation
 
 FURTHER IMPROVEMENTS 📈
+
 This was my first big project so there are lot of things to improve upon
 
 CSS code formatting needs to be done (some code in file and some inline)
