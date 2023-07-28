@@ -56,8 +56,6 @@ Raspberry
 HOW TO RUN LOCALLY 🛠️
 Before the following steps make sure you have git, Anaconda or miniconda installed on your system
 
-Clone the complete project with https://github.com/NischayGoyal1/cultyvate.git or you can just download the code and unzip it
-
 Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block
 
 conda create -n cultyvate python=3.10
