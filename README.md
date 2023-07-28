@@ -1,6 +1,10 @@
 # AgriGrow 🌿
 #### A simple and easy to use Machine Learning and Deep Learning based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
+-Since independence and even before, India has been regarded as an Agrarian economy with almost 44% of its population deriving livelihood from it, making it a major sector to focus upon but the problem remains in its contribution to the GDP which remains significantly lower to about (18-20) %.
+-India being on the road to become the most populated nation by 2023 surpassing China, one of the major challenges is to support and sustain the food security as well as welfare in India by backing and assisting the farmers of the nation.
+-Major issue among all is the scattered availability of educational and assistive sources to farmers which are not personalized according to their land and needs, cannot be accessed easily and are difficult to understand hence,
+-There is a need to develop and implement a single user-friendly web-based platform that acts as a ‘one stop solution’  for farmers and addresses all problems faced by them in every sphere of the work involved in agriculture. It also assist and educate them to extract maximum profit out of their land using environmentally sustainable practices in order to make them financially stable, self-reliant and socially responsible.
 
 
 
@@ -27,6 +31,22 @@
 - [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
 - [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)
 - [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
+
+##Future problems that can be resolved through a digital platform: 
+-Use of primitive and unsustainable agricultural practices (leading to environmental degradation).
+-Meagre income of farmers, problems of financial inclusion, farmers in debt traps and low profitability of farmers .
+-Low agricultural trade and export. 
+-Small size or largely divided agricultural lands in India. 
+-Lack of communication between farmers living in the same geographical area and less co-operation among them (social division between large and small farmers) 
+-Minimal use of new innovations and technology.
+-Illiteracy and unawareness about: 
+-New government welfare schemes and incentives launched for farmers.
+-Advanced agricultural techniques and technology that is efficient as well as sustainable
+-More profitable and environment-friendly crops that they can grow on their land  
+-Market prices of their agricultural products.
+-More efficient and eco-friendly sources of energy they can use to power their machines. 
+-The impact of climate change on agriculture.
+
 
 
 
@@ -125,15 +145,6 @@ This was my first big project so there are lot of things to improve upon
 - Additional plant images can be collected to make the disease detection part more robust and generalized
 - Modularized code can be written instead of writing in Jupyter Notebooks
 
-
-
-# DEVELOPERS 👨‍💻
-
-#### [Nischay](https://github.com/NischayGoyal1)
-#### [Rohan](https://github.com/NischayGoyal1)
-#### [Vedant](https://github.com/VedantSharma11)
-#### [Niranjan](https://github.com/NiranjanHebli)
-#### [Samridhi](https://github.com/samridhikapoor)
 
 
 
