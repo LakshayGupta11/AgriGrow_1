@@ -145,6 +145,11 @@ This was my first big project so there are lot of things to improve upon
 - Additional plant images can be collected to make the disease detection part more robust and generalized
 - Modularized code can be written instead of writing in Jupyter Notebooks
 
+  # DEVELOPERS 👨‍💻
+
+#### [Lakshay](https://github.com/LakshayGupta11)
+#### [Nischay](https://github.com/NischayGoyal1)
+#### [Samridhi](https://github.com/samridhikapoor)
 
 
 
