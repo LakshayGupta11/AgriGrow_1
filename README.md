@@ -102,7 +102,7 @@ Note that, for now it only supports following crops
 
 ## HOW TO RUN LOCALLY 🛠️
 - Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
-- Clone the complete project with `https://github.com/LakshayGupta11/AgriGrow.git` or you can just download the code and unzip it
+- Clone the complete project with `https://github.com/LakshayGupta11/AgriGrow_1.git` or you can just download the code and unzip it
 
 
 - Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block
